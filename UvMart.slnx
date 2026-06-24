@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UvMart.Api.Tests/UvMart.Api.Tests.csproj" />
+  <Project Path="UvMart.Api/UvMart.Api.csproj" />
+</Solution>
